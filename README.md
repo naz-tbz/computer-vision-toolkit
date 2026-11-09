@@ -1,6 +1,6 @@
 # Computer Vision Toolkit
 
-Original Python computer vision project organized into two parts. The Python source files are preserved from the original project without changes.
+This Python computer vision project organized into two parts.
 
 ## Part 1 — Mini Photo Editor
 
@@ -35,11 +35,3 @@ Python 3 and a working webcam (for Part 2) are required.
 ```bash
 python -m pip install -r requirements.txt
 ```
-
-## Privacy and project notes
-
-- The original Python code has not been rewritten or modified.
-- Saved webcam face images, original photos, generated results, cache files, Mac metadata, and the original coursework document are not included.
-- Only the two Haar cascade XML files used by the original face/smile detector are included.
-- Both scripts were checked for Python syntax; they have not been fully executed in this environment, especially webcam interaction.
-- The image editor reads local images supplied by the user.
